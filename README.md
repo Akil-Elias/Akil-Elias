@@ -2,7 +2,7 @@
 
 🚀 Systems tinkerer | 🧠 Low-level lover | 🧩 Problem solver
 
-Currently building things like:
+Current projects include:
   - 🌐 HTTP servers & REST APIs
   - 🌍 DNS resolvers from scratch
   - 🔁 Load balancers that actually balance
