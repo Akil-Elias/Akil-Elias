@@ -2,7 +2,7 @@
 
 Current projects include:
   - 🌐 HTTP servers & REST APIs
-  - 🌍 DNS resolvers from scratch
-  - 🔁 Load balancers that actually balance
-  - 🧹 Web scrapers with zero fluff
+  - 🌍 DNS resolvers
+  - 🔁 Load balancers
+  - 🧹 Web scrapers
   - 📟 Terminal apps that feel fast and clean
