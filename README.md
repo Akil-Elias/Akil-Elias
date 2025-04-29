@@ -1,4 +1,4 @@
-## Hi, I'm Akil👋
+## Hi, I'm Akil 👋
 
 Current projects include:
   - 🌐 HTTP servers & REST APIs
