@@ -1,5 +1,6 @@
-👋 Hi, I’m Akil – A fullstack developer and former HR professional passionate about building smarter HR solutions.
+👋 Hi, I’m Akil 
 
-💼 My HR experience gives me unique insight into the challenges organizations face, which I now solve through code.
-
-💻 I design and develop HRIS platforms and other web applications that are scalable, secure, and user-friendly.
+A passionate JavaScript developer with experience in:
+⚡ modern light-weight frameworks
+🧹 clean code practices
+🎨 creating seamless user experiences
