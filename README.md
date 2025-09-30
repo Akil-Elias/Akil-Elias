@@ -16,6 +16,8 @@ A passionate JavaScript developer with experience in:
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-222222?logo=Alpine.js&logoColor=8BC0D0&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=20232a)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?logo=tailwindcss&logoColor=white&labelColor=0F172A)
+![Bun](https://img.shields.io/badge/Bun.js-000000?logo=bun&logoColor=white&labelColor=fcd34d)
+
 
 
 
