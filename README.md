@@ -4,8 +4,8 @@ A software developer passionate about low-level software, operating systems & ne
 
 Currently Building: 
 - 🌐 HTTP servers
--📡 DNS resolvers
--⚖️ Load balancers 
+- 📡 DNS resolvers
+- ⚖️ Load balancers 
 
 ---
 
