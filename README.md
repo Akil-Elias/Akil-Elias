@@ -1,7 +1,6 @@
 👋 Hi, I’m Akil 
 
-A passionate JavaScript developer with experience in:
-💻 Passionate JavaScript developer  
+🌐 Passionate about web development  
 ⚡ Experienced with modern frameworks  
 🧹 Focused on clean code practices  
 🎨 Dedicated to creating seamless user experiences  
