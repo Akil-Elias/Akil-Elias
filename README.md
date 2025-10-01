@@ -1,18 +1,21 @@
 👋 Hi, I’m Akil 
 
-🌐 Passionate about web development  
-⚡ Experienced with modern frameworks  
-🧹 Focused on clean code practices  
-🎨 Dedicated to creating seamless user experiences  
+A software developer passionate about low-level software, operating systems & networking. I'm always learning, always optimizing.
+
+Currently Building:
+🌐 HTTP servers
+📡 DNS resolvers
+⚖️ Load balancers
+🌐 Obsessed with performance. 
+🛠️ Building HTTP servers, DNS resolvers, and load balancers from scratch
 
 ---
 
 ### 🛠️ Tech Stack  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=0F172A)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?logo=tailwindcss&logoColor=white&labelColor=0F172A)
-![Bun](https://img.shields.io/badge/Bun.js-fcd34d?logo=bun&logoColor=000000&labelColor=0F172A)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&labelColor=0F172A)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&labelColor=0F172A)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&labelColor=0F172A)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&labelColor=0F172A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&labelColor=0F172A)
+
 
 
 
