@@ -1,4 +1,4 @@
-👋 Hi, I’m Akil 
+👋 Hi, I’m Akil
 
 A software developer passionate about low-level software, operating systems & networking. I'm always learning, always optimizing.
 
@@ -6,8 +6,6 @@ Currently Building:
 🌐 HTTP servers
 📡 DNS resolvers
 ⚖️ Load balancers
-🌐 Obsessed with performance. 
-🛠️ Building HTTP servers, DNS resolvers, and load balancers from scratch
 
 ---
 
