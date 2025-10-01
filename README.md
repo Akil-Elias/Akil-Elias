@@ -3,7 +3,7 @@
 A software developer passionate about low-level software, operating systems & networking. I'm always learning, always optimizing.
 
 Currently Building: 
-🌐 HTTP servers 
+🌐 HTTP servers
 📡 DNS resolvers 
 ⚖️ Load balancers 
 
