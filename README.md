@@ -1,6 +1,6 @@
 👋 Hi, I’m Akil
 
-I love solving real-world problems with code. I'm always learning, always optimizing.
+Trying to balance my desire to solve real-world problems with my love of coding for its own sake.
 
 ---
 
