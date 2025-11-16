@@ -1,12 +1,15 @@
 👋 Hi, I’m Akil
 
-Trying to balance my desire to solve real-world problems with my love of coding for its own sake.
+Web Developer focused on building fast, accessible, and maintainable web apps.
 
 ---
 
 ### 🛠️ Tech Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1f5fab">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+
 
 
 
